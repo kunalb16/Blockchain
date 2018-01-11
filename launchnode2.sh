@@ -1,0 +1,1 @@
+geth --identity "KunalChain" --rpc --rpcport "8007" --rpccorsdomain "*" --datadir "~/Desktop/tmp/4" --port "30307" --nodiscover --ipcapi "admin,db,eth,debug,miner,net,shh,txpool,personal,web3" --rpcapi "db,eth,net,web3" --autodag --networkid 1790 --nat "any" console
